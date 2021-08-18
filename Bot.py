@@ -14,7 +14,7 @@ BOT_TOKEN = config("BOT_TOKEN", default=None)
 
 
 from os import getenv
-#gj.
+#gj....((
 
 STRING = getenv("STRING")
 STRING2 = getenv("STRING2")
